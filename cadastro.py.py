@@ -29,4 +29,4 @@ while opcao == "INCLUIR" or opcao =="EXCLUIR" or opcao == "PESQUISAR" or opcao =
             print(f'cadastro de  {k} {v}')
             menu()
 
-print(cadastros)
+print(cadastros) 
